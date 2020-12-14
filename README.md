@@ -1,10 +1,16 @@
 ### Hi there 👋
 
+
+# Profile Visits
+<img src="https://profile-counter.glitch.me/Yug34/count.svg" alt="" />
+
+# Contact me
+<a href=https://www.linkedin.com/in/yug-gajjar-34222b18b/ > <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"></img></a>
+
+
 <!--
 **Yug34/Yug34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
