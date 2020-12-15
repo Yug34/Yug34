@@ -1,8 +1,9 @@
-### Hi there 👋
-
+### Hi there, I'm Yug34! 👋
+<br/>
+<br/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yug34&theme=dark">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yug34&show_icons=true&theme=dark&line_height=27" alt="Yug34's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yug34&count_private=true&show_icons=true&theme=dark&line_height=27" alt="Yug34's github stats"/>
 
 # Profile Visits
 <img src="https://profile-counter.glitch.me/Yug34/count.svg" alt="" />
