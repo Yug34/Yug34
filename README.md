@@ -1,21 +1,26 @@
-# 👋
+# Hi there! 👋
 <br/>
 <br/>
-
+<a href="https://www.linkedin.com/in/yug-gajjar-34222b18b/" > 
+  <img align="left" alt="Linkedin" src="https://img.icons8.com/color/48/000000/linkedin.png"></img>
+</a>
+<a href="https://github.com/Yug34">
+  <img align="left" alt="Github" width="22px" src="https://github.com/fluidicon.png" />
+</a>
+<a href="https://instagram.com/me_yug/">
+  <img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
+</a>
+<br/>
+<br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yug34&theme=dark">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yug34&count_private=true&show_icons=true&theme=dark&line_height=27" alt="Yug34's github stats"/>
-
-<!--
-Add linkedin, gmail, insta probably.
--->
 
 # Profile Visits
 #### These are rookie numbers, we gotta pump those up!
 
 <img src="https://profile-counter.glitch.me/Yug34/count.svg" alt="" />
 
-# Contact me
-<a href=https://www.linkedin.com/in/yug-gajjar-34222b18b/ > <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"></img></a>
+
 
 
 <!--
