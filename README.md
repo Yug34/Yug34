@@ -1,4 +1,4 @@
-# Hi there, I'm Yug34! 👋
+👋
 <br/>
 <br/>
 
