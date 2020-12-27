@@ -2,7 +2,7 @@
 <br/>
 <br/>
 <a href="https://www.linkedin.com/in/yug-gajjar-34222b18b/" > 
-  <img align="left" alt="Linkedin" src="https://img.icons8.com/color/48/000000/linkedin.png"></img>
+  <img align="left" alt="Linkedin" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
 <a href="https://github.com/Yug34">
   <img align="left" alt="Github" width="22px" src="https://github.com/fluidicon.png" />
