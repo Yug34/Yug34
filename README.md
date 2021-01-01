@@ -12,9 +12,17 @@
 
 <br/>
 <br/>
+<p align="center">
+  <a href="https://github.com/puf17640" class="rich-diff-level-one">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yug34&theme=dark">
+  </a>
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yug34&theme=dark">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yug34&count_private=true&show_icons=true&theme=dark&line_height=27" alt="Yug34's github stats"/>
+<p align="center">
+  <a href="https://github.com/puf17640" class="rich-diff-level-one">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yug34&count_private=true&show_icons=true&theme=dark&line_height=27" alt="Yug34's github stats"/>
+  </a>
+</p>
 
 # Profile Visits
 #### These are rookie numbers, we gotta pump those up!
