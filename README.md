@@ -1,14 +1,14 @@
-# Hi there! 👋
+<h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yug-gajjar-34222b18b/" > 
-    <img align="left" alt="Linkedin" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
+    <img align="center" alt="Linkedin" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
   </a>
   <a href="https://github.com/Yug34">
-    <img align="left" alt="Github" width="22px" src="https://github.com/fluidicon.png" />
+    <img align="center" alt="Github" width="22px" src="https://github.com/fluidicon.png" />
   </a>
   <a href="https://instagram.com/me_yug/">
-    <img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
+    <img align="center" alt="Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
   </a>
 </p>
 
