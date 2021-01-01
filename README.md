@@ -24,8 +24,15 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/puf17640" class="rich-diff-level-one">
 # Profile Visits
 #### These are rookie numbers, we gotta pump those up!
+  </a>
+</p>
+
+
+
 
 <img src="https://profile-counter.glitch.me/Yug34/count.svg" alt="" />
 
