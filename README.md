@@ -2,16 +2,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yug-gajjar-34222b18b/" > 
-    <img align="center" alt="Linkedin" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
+    <img align="center" alt="Linkedin" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
   </a>
   <a href="https://leetcode.com/Yug34/">
-    <img align="center" alt="leetcode" width="22px" src="https://user-images.githubusercontent.com/32040901/79929570-197c2480-8414-11ea-9358-c92a53916a7f.png" />
+    <img align="center" alt="leetcode" width="30px" src="https://user-images.githubusercontent.com/32040901/79929570-197c2480-8414-11ea-9358-c92a53916a7f.png" />
   </a>
   <a href="https://github.com/Yug34">
-    <img align="center" alt="Github" width="22px" src="https://github.com/fluidicon.png" />
+    <img align="center" alt="Github" width="30px" src="https://github.com/fluidicon.png" />
   </a>
   <a href="https://instagram.com/me_yug/">
-    <img align="center" alt="Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
+    <img align="center" alt="Instagram" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
   </a>
 </p>
 
