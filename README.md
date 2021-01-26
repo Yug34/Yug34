@@ -10,9 +10,6 @@
   <a href="https://github.com/Yug34">
     <img align="center" alt="Github" width="30px" src="https://github.com/fluidicon.png" />
   </a>
-  <a href="https://instagram.com/me_yug/">
-    <img align="center" alt="Instagram" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
-  </a>
 </p>
 
 <br/>
