@@ -7,9 +7,6 @@
   <a href="https://leetcode.com/Yug34/">
     <img align="center" alt="leetcode" width="30px" src="https://user-images.githubusercontent.com/32040901/79929570-197c2480-8414-11ea-9358-c92a53916a7f.png" />
   </a>
-  <a href="https://github.com/Yug34">
-    <img align="center" alt="Github" width="30px" src="https://github.com/fluidicon.png" />
-  </a>
 </p>
 
 <br/>
