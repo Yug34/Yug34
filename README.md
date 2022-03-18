@@ -4,9 +4,6 @@
   <a href="https://www.linkedin.com/in/yug-gajjar-34222b18b/" > 
     <img align="center" alt="Linkedin" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
   </a>
-  <a href="https://leetcode.com/Yug34/">
-    <img align="center" alt="leetcode" width="30px" src="https://user-images.githubusercontent.com/32040901/79929570-197c2480-8414-11ea-9358-c92a53916a7f.png" />
-  </a>
 </p>
 
 <br/>
@@ -31,16 +28,3 @@
 </p>
 
 
-
-<!--
-**Yug34/Yug34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
