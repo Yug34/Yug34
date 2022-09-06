@@ -8,7 +8,7 @@
 
 <p align="center">
   Learn more about me 
-  <a href="https://portfolio-new-yug34.vercel.app/">
+  <a href="https://portfolio-new-yug34.vercel.app/" target="_blank">
     here!
   </a>
 </p>
