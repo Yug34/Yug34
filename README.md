@@ -6,6 +6,15 @@
   </a>
 </p>
 
+<p align="center">
+  Learn more about me 
+  <a href="https://portfolio-new-yug34.vercel.app/">
+    here
+  </a>
+  !
+</p>
+
+
 <br/>
 <br/>
 <p align="center">
