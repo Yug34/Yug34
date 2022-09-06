@@ -9,9 +9,8 @@
 <p align="center">
   Learn more about me 
   <a href="https://portfolio-new-yug34.vercel.app/">
-    here
+    here!
   </a>
-  !
 </p>
 
 
