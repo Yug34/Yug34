@@ -20,7 +20,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/Yug34" class="rich-diff-level-one">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yug34&theme=dark&hide=javascript,css,html,tex,jupyter%20notebook&layout=compact">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yug34&theme=dark&hide=pug,batchfile,powershell,javascript,css,html,tex,jupyter%20notebook&layout=compact">
   </a>
 </p>
 
