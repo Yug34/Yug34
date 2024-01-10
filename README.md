@@ -6,6 +6,8 @@
   </a>
 </p>
 
+Love hard engineering problems, currently probably doing something in Rust and listening to [Sleep Token](https://www.youtube.com/watch?v=nVE1ziLuSNg) or [Architects](https://www.youtube.com/watch?v=h82045Ld6ak).
+
 <!-- 
   <p align="center">
     Learn more about me 
