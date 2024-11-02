@@ -6,7 +6,7 @@
   </a>
 </p>
 
-Love hard engineering problems, currently probably doing something in Rust and listening to [Sleep Token](https://www.youtube.com/watch?v=nVE1ziLuSNg) or [Architects](https://www.youtube.com/watch?v=h82045Ld6ak).
+Putting my blogs back up again soon bbs. Thanks for the wait!
 
 <!-- 
   <p align="center">
