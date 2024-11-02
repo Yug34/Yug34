@@ -6,7 +6,7 @@
   </a>
 </p>
 
-Putting my blogs back up again soon bbs. Thanks for the wait!
+Putting my blogs back up again soon bbgirls! Too much to write.
 
 <!-- 
   <p align="center">
