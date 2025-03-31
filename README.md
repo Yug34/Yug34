@@ -6,7 +6,11 @@
   </a>
 </p>
 
-Here's my [blog]([url](https://megalith-avt9.vercel.app/))!
+<p align="center">
+  <a href="https://megalith-avt9.vercel.app/"> 
+    Here's my lil blog!
+  </a>
+</p>
 
 <!-- 
   <p align="center">
