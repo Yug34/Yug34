@@ -6,7 +6,7 @@
   </a>
 </p>
 
-Putting my blogs back up again soon bbgirls! Too much to write.
+Here's my [blog]([url](https://megalith-avt9.vercel.app/))!
 
 <!-- 
   <p align="center">
