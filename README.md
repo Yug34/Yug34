@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://megalith-avt9.vercel.app/"> 
-    Here's my lil blog!
+  <a href="https://megalith.blog/"> 
+    Here's my blog!
   </a>
 </p>
 
