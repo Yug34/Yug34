@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://megalith.blog/"> 
-    Here's my blog!
+    Go read my blog.
   </a>
 </p>
 
@@ -21,26 +21,5 @@
   </p>
 -->
 
-
-<br/>
-<br/>
-<p align="center">
-  <a href="https://github.com/Yug34" class="rich-diff-level-one">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yug34&theme=dark&hide=pug,batchfile,powershell,javascript,css,html,tex,jupyter%20notebook&layout=compact">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Yug34" class="rich-diff-level-one">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yug34&count_private=true&show_icons=true&theme=dark&line_height=27" alt="Yug34's github stats"/>
-  </a>
-</p>
-
-<h1 align="center">Profile Visits</h1>
-<h4 align="center">These are rookie numbers, we gotta pump those up!</h4>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Yug34/count.svg" alt="" />
-</p>
 
 
