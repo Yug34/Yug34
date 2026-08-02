@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi there! 👋</h1> -->
+<h1 align="center">🎀 🎀 🎀 🎀 🎀</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yug34/" > 
@@ -7,17 +7,5 @@
 </p>
 
 <p align="center">
-  Go read<a href="http://theahmedabaddie.com/"> my blog</a>.
+  Go read <a href="http://theahmedabaddie.com/">my blog</a>.
 </p>
-
-<!-- 
-  <p align="center">
-    Learn more about me 
-    <a href="https://portfolio-new-yug34.vercel.app/" target="_blank">
-      here!
-    </a>
-  </p>
--->
-
-
-
