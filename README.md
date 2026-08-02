@@ -7,9 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://megalith.blog/"> 
-    Go read my blog.
+  Go read
+  <a href="http://theahmedabaddie.com/"> 
+    my blog
   </a>
+  .
 </p>
 
 <!-- 
